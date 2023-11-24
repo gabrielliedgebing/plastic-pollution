@@ -57,8 +57,8 @@ Understanding how plastic is made and how researchers are working to make it gre
 See all videos for this article
 Given the global scale of plastic pollution, the cost of removing plastics from the environment would be prohibitive. Most solutions to the problem of plastic pollution, therefore, focus on preventing improper disposal or even on limiting the use of certain plastic items in the first place. Fines for littering have proved difficult to enforce, but various fees or outright bans on foamed food containers and plastic shopping bags are now common, as are deposits redeemed by taking beverage bottles to recycling centres. So-called extended producer responsibility, or EPR, schemes make the manufacturers of some items responsible for creating an infrastructure to take back and recycle the products that they produce. Awareness of the serious consequences of plastic pollution is increasing, and new solutions, including the increasing use of biodegradable plastics and a “zero waste” philosophy, are being embraced by governments and the public.
 This is why we should reduce plastic pollution</p>
-<p style="background-color:blue;">
+<p style="background-color:white;">
+<h1>By Gabriel Li and Kamil Shaban</h1>
 <br>
 </body>
 </html>
-
