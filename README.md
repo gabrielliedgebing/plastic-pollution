@@ -59,7 +59,7 @@ Given the global scale of plastic pollution, the cost of removing plastics from 
 This is why we should reduce plastic pollution</p>
 <p style="background-color:white;">
 <h1>By Gabriel Li and Kamil Shaban</h1>
-<h1>No Copy writing</h1>
+<h1>No Copywriting</h1>
 <br>
 </body>
 </html>
